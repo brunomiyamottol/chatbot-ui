@@ -736,7 +736,7 @@ const Home: React.FC<HomeProps> = ({
     <>
       <Head>
         <title>Chatbot UI</title>
-        <meta name="description" content="ChatGPT but better." />
+        <meta name="description" content="Chatbot UI is Sponsored by Bruno Miyamotto, technologist, runner, creator, and entrepreneur dedicated to building and evangelizing technologies and systems that generate resilience, self-sustainability, and dynamism." />
         <meta
           name="viewport"
           content="height=device-height ,width=device-width, initial-scale=1, user-scalable=no"
