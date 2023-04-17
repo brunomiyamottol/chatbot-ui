@@ -11,6 +11,7 @@ export default function Document(props: Props) {
   return (
     <Html lang={currentLocale}>
       <Head>
+      <meta name="description" content="Chatbot UI Sponsored by Bruno Miyamotto, technologist, runner, creator, and entrepreneur dedicated to building and evangelizing technologies and systems that generate resilience, self-sustainability, and dynamism." />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-title" content="Chatbot UI"></meta>
       </Head>
